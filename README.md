@@ -63,7 +63,7 @@ Add new employee
 View/Edit/Delete employee information
 
 
-![View/Edit/Delete employee](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/Capture6.PNG)
+![View/Edit/Delete employee](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/6.PNG)
 
 
 Generate report
