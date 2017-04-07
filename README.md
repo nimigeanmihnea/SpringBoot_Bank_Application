@@ -21,52 +21,52 @@
 Add a new client
 
 
-![Add client](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/1.PNG)
+![Add client](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/1.PNG)
 
 
 View/Edit client information
 
 
-![View/Edit client](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/5.PNG)
+![View/Edit client](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/5.PNG)
 
 
 Add new account
 
 
-![Add account](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/2.PNG)
+![Add account](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/2.PNG)
 
 
 View/Edit/Delete account information
 
 
-![View/Edit/Delete account](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/5.PNG)
+![View/Edit/Delete account](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/5.PNG)
 
 
 Transfer between accounts
 
 
-![Transfer](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/3.PNG)
+![Transfer](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/3.PNG)
 
 
 Process utilities bills
 
 
-![Withdraw](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/4.PNG)
+![Withdraw](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/4.PNG)
 
 
 Add new employee
 
 
-![Add new employee](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/7.PNG)
+![Add new employee](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/7.PNG)
 
 
 View/Edit/Delete employee information
 
 
-![View/Edit/Delete employee](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/6.PNG)
+![View/Edit/Delete employee](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/Capture6.PNG)
 
 
 Generate report
 
 
-![Generate](https://github.com/SD-PS2017/30237-a1-mihneanimigean/blob/master/images/8.PNG)
+![Generate](https://github.com/nimigeanmihnea/SpringBoot_Bank_Application/blob/master/images/8.PNG)
